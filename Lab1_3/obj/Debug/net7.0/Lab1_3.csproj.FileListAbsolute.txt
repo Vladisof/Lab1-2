@@ -1,0 +1,29 @@
+/Users/maxzel/RiderProjects/Lab1_3/Lab1_3/bin/Debug/net7.0/Lab1_3
+/Users/maxzel/RiderProjects/Lab1_3/Lab1_3/bin/Debug/net7.0/Lab1_3.deps.json
+/Users/maxzel/RiderProjects/Lab1_3/Lab1_3/bin/Debug/net7.0/Lab1_3.runtimeconfig.json
+/Users/maxzel/RiderProjects/Lab1_3/Lab1_3/bin/Debug/net7.0/Lab1_3.dll
+/Users/maxzel/RiderProjects/Lab1_3/Lab1_3/bin/Debug/net7.0/Lab1_3.pdb
+/Users/maxzel/RiderProjects/Lab1_3/Lab1_3/obj/Debug/net7.0/Lab1_3.csproj.AssemblyReference.cache
+/Users/maxzel/RiderProjects/Lab1_3/Lab1_3/obj/Debug/net7.0/Lab1_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxzel/RiderProjects/Lab1_3/Lab1_3/obj/Debug/net7.0/Lab1_3.AssemblyInfoInputs.cache
+/Users/maxzel/RiderProjects/Lab1_3/Lab1_3/obj/Debug/net7.0/Lab1_3.AssemblyInfo.cs
+/Users/maxzel/RiderProjects/Lab1_3/Lab1_3/obj/Debug/net7.0/Lab1_3.csproj.CoreCompileInputs.cache
+/Users/maxzel/RiderProjects/Lab1_3/Lab1_3/obj/Debug/net7.0/Lab1_3.dll
+/Users/maxzel/RiderProjects/Lab1_3/Lab1_3/obj/Debug/net7.0/refint/Lab1_3.dll
+/Users/maxzel/RiderProjects/Lab1_3/Lab1_3/obj/Debug/net7.0/Lab1_3.pdb
+/Users/maxzel/RiderProjects/Lab1_3/Lab1_3/obj/Debug/net7.0/Lab1_3.genruntimeconfig.cache
+/Users/maxzel/RiderProjects/Lab1_3/Lab1_3/obj/Debug/net7.0/ref/Lab1_3.dll
+C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab1_3\Lab1_3\Lab1_3\bin\Debug\net7.0\Lab1_3.exe
+C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab1_3\Lab1_3\Lab1_3\bin\Debug\net7.0\Lab1_3.deps.json
+C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab1_3\Lab1_3\Lab1_3\bin\Debug\net7.0\Lab1_3.runtimeconfig.json
+C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab1_3\Lab1_3\Lab1_3\bin\Debug\net7.0\Lab1_3.dll
+C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab1_3\Lab1_3\Lab1_3\bin\Debug\net7.0\Lab1_3.pdb
+C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab1_3\Lab1_3\Lab1_3\obj\Debug\net7.0\Lab1_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab1_3\Lab1_3\Lab1_3\obj\Debug\net7.0\Lab1_3.AssemblyInfoInputs.cache
+C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab1_3\Lab1_3\Lab1_3\obj\Debug\net7.0\Lab1_3.AssemblyInfo.cs
+C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab1_3\Lab1_3\Lab1_3\obj\Debug\net7.0\Lab1_3.csproj.CoreCompileInputs.cache
+C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab1_3\Lab1_3\Lab1_3\obj\Debug\net7.0\Lab1_3.dll
+C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab1_3\Lab1_3\Lab1_3\obj\Debug\net7.0\refint\Lab1_3.dll
+C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab1_3\Lab1_3\Lab1_3\obj\Debug\net7.0\Lab1_3.pdb
+C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab1_3\Lab1_3\Lab1_3\obj\Debug\net7.0\Lab1_3.genruntimeconfig.cache
+C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab1_3\Lab1_3\Lab1_3\obj\Debug\net7.0\ref\Lab1_3.dll
